@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Liceria Bakery</string>
+    <string name="invalid_email_error">Invalid Email</string>
+</resources>

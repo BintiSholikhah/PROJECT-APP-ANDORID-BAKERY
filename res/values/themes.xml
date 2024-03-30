@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.LiceriaBakery" parent="Theme.MaterialComponents.DayNight">
+         Customize your light theme here.
+         <item name="colorPrimary">#9A645B</item>
+        <item name="colorPrimaryDark">#9A645B</item>
+        <item name="colorAccent">#9A645B</item>
+    </style>
+
+    <style name="Theme.LiceriaBakery" parent="Base.Theme.LiceriaBakery" />
+</resources>
